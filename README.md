@@ -110,7 +110,7 @@ Run Streamlit dashboard:
 streamlit run app.py
 
 
-## What This Model Captures
+<!--## What This Model Captures
 
 1.  Liquidity constraints\
 2.  Growth compounding\
@@ -119,7 +119,7 @@ streamlit run app.py
 5.  Dilution effects\
 6.  Profitability vs runway mismatch\
 7.  Survival vs intrinsic value distinction
-
+-->
 <!-- 
 ##  Applications
 
@@ -130,6 +130,7 @@ streamlit run app.py
 5.   Academic research (startup survival modeling)
 6.   Financial engineering projects
  -->
+
 
 
 
