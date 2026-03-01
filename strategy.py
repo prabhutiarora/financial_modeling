@@ -4,7 +4,6 @@ from montecarlo import run_monte_carlo
 
 def compare_strategies(startup, strategies, runs=500, months=36, events=None):
    
-
     results = {}
 
     for name, decisions in strategies.items():
